@@ -1,4 +1,4 @@
-# web3-calendly
+# Tim3: eb 3 Native Calendly
 
 Learning a littile bit of web3 from [Part Time Larry](https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ)
 
